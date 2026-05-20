@@ -1,7 +1,7 @@
 <h1 align="center">Legacy PHP Recovery</h1>
 
 <p align="center">
-During my internship, I helped fix HTTP 404 issues in legacy PHP code without documentation.
+During my internship, I diagnosed and fixed HTTP 404 bugs in legacy PHP code.
 </p>
 
 <p align="center">
