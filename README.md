@@ -1,3 +1,11 @@
+<h1 align="center">Legacy Recovery</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Healthcare%20System-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Legacy%20PHP%20System-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Production%20Fix-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache%20Routing-111111?style=flat-square" />
+</p>
+
 ## Overview
 Debugged a production routing failure in a legacy PHP healthcare system impacting critical hospital workflows.
 
