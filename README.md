@@ -9,12 +9,12 @@ During my internship, I helped fix HTTP 404 issues in legacy PHP code without do
 </p>
 ---
 
-## signs of legacy code
+## Signs of Legacy Code
 
 - index, index-xs.php
 - The "varaiable" folder (misspelled)
-- The "ita-data" and "tb" folders as well.
-- folders css-js
+- The "ita-data" and "tb" folders
+- css-js folder
 
 ## Tech Stack
 
