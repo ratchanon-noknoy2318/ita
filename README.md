@@ -1,7 +1,7 @@
 <h1 align="center">Legacy PHP Recovery</h1>
 
 <p align="center">
-During my internship, I helped fix a routing issue in legacy PHP code without documentation.
+During my internship, I helped fix HTTP 404 issues in legacy PHP code without documentation.
 </p>
 
 <p align="center">
@@ -23,4 +23,4 @@ During my internship, I helped fix a routing issue in legacy PHP code without do
 ## Reference
 
 Legacy PHP healthcare system post on LinkedIn:
-https://www.linkedin.com/posts/ratchanon-noknoy_legacysystems-php-healthcareit-ugcPost-7459382768137875456-FpJn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2Q4JEBP4yITEVbIn3E5Y8zTBxoVS6vqRA
+[https://www.linkedin.com/posts/ratchanon-noknoy_legacysystems-php-healthcareit](https://www.linkedin.com/posts/ratchanon-noknoy_legacysystems-php-healthcareit-ugcPost-7459382768137875456-FpJn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2Q4JEBP4yITEVbIn3E5Y8zTBxoVS6vqRA)
