@@ -1,8 +1,8 @@
 <h1 align="left">Third-party Legacy PHP Codebase</h1>
 
-<p align="left">
-During my internship, I diagnosed and fixed HTTP 404 bugs in a third-party legacy PHP codebase.
-</p>
+![Internship](https://img.shields.io/badge/Started_During-Internship-blue)
+![Debugging](https://img.shields.io/badge/Worked_on-Third--Party_PHP-orange)
+![HTTP 404](https://img.shields.io/badge/Resolved-HTTP_404-red)
 
 <p align="left">
   <img src="https://media.licdn.com/dms/image/v2/D5622AQEntE3MhbDp5Q/feedshare-image-high-res/B56Z4UNGI7IQAU-/0/1778455438212?e=1781136000&v=beta&t=aVwhYX8pYK0NaRlWQ8jE2D-Dl9cQ9oyi_JuvWw89w9c" width="400"/>
