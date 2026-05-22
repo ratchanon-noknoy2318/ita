@@ -1,7 +1,7 @@
-<h1 align="left">Third-party Legacy PHP Codebase</h1>
+<h1 align="left">Legacy PHP codebase</h1>
 
 ![Internship](https://img.shields.io/badge/Started_During-Internship-blue)
-![Debugging](https://img.shields.io/badge/Worked_on-Third--Party_PHP-orange)
+![Debugging](https://img.shields.io/badge/Debugged-Legacy_PHP-orange)
 ![HTTP 404](https://img.shields.io/badge/Resolved-HTTP_404-red)
 
 <p align="left">
