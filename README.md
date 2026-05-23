@@ -1,26 +1,22 @@
-<h1 align="left">Legacy PHP codebase</h1>
+<h1 align="center">Legacy PHP Debugging</h1>
 
-![Internship](https://img.shields.io/badge/Started_During-Internship-blue)
-![Debugging](https://img.shields.io/badge/Debugged-Legacy_PHP-orange)
-![HTTP 404](https://img.shields.io/badge/Resolved-HTTP_404-red)
-
-<p align="left">
-   <img src="https://res.cloudinary.com/dpa96jvla/image/upload/v1779252831/%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%8B%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD_11_zr1atn.png" width="400"/>
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQEntE3MhbDp5Q/feedshare-image-high-res/B56Z4UNGI7IQAU-/0/1778455438212?e=1781136000&v=beta&t=aVwhYX8pYK0NaRlWQ8jE2D-Dl9cQ9oyi_JuvWw89w9c" width="400"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Intern-blue" />
+  <img src="https://img.shields.io/badge/Language-PHP-777BB4" />
+  <img src="https://img.shields.io/badge/Debugged-HTTP_404-red" />
 </p>
----
+<br>
 
-## Signs of Legacy Code
+## About
 
-- index, index-xs.php
-- The "varaiable" folder (misspelled)
-- The "ita-data" and "tb" folders
+During my internship at a community hospital, I noticed HTTP 404 errors and traced a routing issue in a legacy PHP healthcare system. I identified broken endpoints and fixed them while maintaining OPD workflows.
 
-## Tech Stack
+## What I Learned
 
-- PHP
+- Legacy systems reflect real production constraints  
+- Debugging starts from logs and request flow  
+- Small routing issues can impact hospital workflows significantly  
 
-## Reference
+## Reference 
 
-Legacy PHP healthcare system post on LinkedIn:
-[https://www.linkedin.com/posts/ratchanon-noknoy_legacysystems-php-healthcareit](https://www.linkedin.com/posts/ratchanon-noknoy_legacysystems-php-healthcareit-ugcPost-7459382768137875456-FpJn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2Q4JEBP4yITEVbIn3E5Y8zTBxoVS6vqRA)
+LinkedIn Post: https://www.linkedin.com/posts/ratchanon-noknoy_healthcareit-his-legacysystems-ugcPost-7459382768137875456-_jpj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2Q4JEBP4yITEVbIn3E5Y8zTBxoVS6vqRA
